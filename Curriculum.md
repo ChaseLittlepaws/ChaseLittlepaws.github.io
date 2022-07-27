@@ -17,6 +17,7 @@ I developed this list for my own learning, but I'm sharing it to practice [learn
 [Responsive Web Design from freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)   
 [Learn HTML from codecademy](https://www.codecademy.com/learn/learn-html)  
 [Learn CSS from codecademy](https://www.codecademy.com/learn/learn-css)  
+[CSS Tutorial from W3schools](https://www.w3schools.com/css/default.asp)  
 [Learn Intermediate CSS from codecademy](https://www.codecademy.com/learn/learn-intermediate-css)  
 ### Git & GitHub
 [*Pro Git* by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)  
