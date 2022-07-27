@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Front End Development Technologies"
+permalink: /technologies/
+---
+
 ## Technology Summaries
 - ==**Javascript**==
 	- Dynamically typed programming language

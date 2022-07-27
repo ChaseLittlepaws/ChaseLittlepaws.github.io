@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Traits and Soft Skills of a Front End Developer"
+permalink: /soft_skills/
+---
+
 ## Traits & Soft Skills
 - Problem-Solving
 - User advocate

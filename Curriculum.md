@@ -109,5 +109,5 @@ I developed this list for my own learning, but I'm sharing it to practice [learn
 
 ## Related Resources
 For a similar curriculum, see [[Text-Based Adventure Learning Curriculum]]  
-For a year long plan to learn this content, see [[43.06 One Year Learning Plan, Front End Developer]]  
+For a year long plan to learn this content, see [[Learning Plan]]  
 #review 

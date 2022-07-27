@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Working Enviroment"
+permalink: /environment/
+---
 ## Working Environment
 - Fully Remote
 - Asynchronous
