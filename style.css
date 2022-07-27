@@ -1,6 +1,7 @@
+<style>
 /* Main text, font available at https://brailleinstitute.org/freefont*/
 body {
-    font-family: 'Atkinson Hyperlegible',  sans-serif !important;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
     color: #554c44 !important;
     margin: auto;
     padding: 10px 10px 10px 10px;
@@ -80,3 +81,4 @@ hr {
 table {
     width: 100%;
 }
+</style>
